@@ -1,0 +1,14 @@
+#navbar{
+  top:2em;
+  text-align: left;
+  position: fixed;
+  color:RED;
+}
+#main-doc{
+  text-align: left;
+  position: absolute;
+  left:20%;
+}
+body{
+  color:BLUE;
+}
